@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "b284bb0e66a29b02",
+    "type": "split",
+    "children": [
+      {
+        "id": "990e8ca7c80c1e9e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows/Windows - Enumeration.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b03cd203d7108ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe91b77797b45ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a31937c2a33e111",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fdffc1946ecaf58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f01193f7f9ee2ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a3f1742446d568d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b136a442a0d43235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows/Windows - Enumeration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "990e8ca7c80c1e9e",
+  "lastOpenFiles": [
+    "Windows/Windows - Enumeration.md",
+    "Web Application/Web - Enumeration.md",
+    "Linux/Untitled.md",
+    "Windows/Enumeration.md",
+    "Web Application/Untitled.md",
+    "Untitled.md"
+  ]
+}
