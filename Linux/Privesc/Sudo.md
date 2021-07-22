@@ -1,0 +1,12 @@
+**RUN `SUDO -l` THEN CHECK GTFOBINS**
+
+
+
+## SETENV
+
+
+## ENV KEEP 
+
+
+## LD_PRELOAD
+
