@@ -1,4 +1,4 @@
-## Importing PowerShell Modules
+Get-## Importing PowerShell Modules
 When importing modules to PowerShell you have to have them in one of the following directories
 ```
 $Env:HomeDrive$Env:HOMEPATH\Documents\WindowsPowerShell\Modules" The default 
